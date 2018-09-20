@@ -1,3 +1,6 @@
 [
-  "test_sample.py::test_answer"
+  "test_sample.py::test_answer",
+  "test_stdio.py::test_stdin",
+  "test_stdio.py::test_stdout",
+  "test_stdio.py::test_stderr"
 ]
